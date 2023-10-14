@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Sree9888
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sree9888/Sree9888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#Agricultural crop production data analysis 
+Dashboard public link - https://public.tableau.com/views/AgriculturecropproductionDataAnalystics/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+Story public link - https://public.tableau.com/views/Agriculturecropproduction-DataAnalysticsstory/Story4?:language=en-US&:display_count=n&:origin=viz_share_link
+Video demonstration link - https://drive.google.com/file/d/19PmBPahOqGG9y_kId6ZcQ85gfY4fBy1M/view?usp=drivesdk
